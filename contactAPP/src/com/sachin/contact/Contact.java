@@ -6,10 +6,7 @@ public class Contact {
 	private String name;
 	private String email;
 
-	public Contact()
-	{
-
-	}
+	public Contact(){}
 
 	public String getPhNo() {
 		return phNo;
